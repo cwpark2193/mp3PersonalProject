@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="장르">
+        <item>선택해주세요</item>
+        <item>팝</item>
+        <item>락</item>
+        <item>댄스</item>
+        <item>힙합</item>
+        <item>클래식</item>
+        <item>사운드트랙</item>
+    </string-array>
+</resources>
